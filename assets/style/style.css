@@ -1,0 +1,111 @@
+#BgBody{
+    font-family: 'Montserrat', sans-serif !important ;
+    background-color:#e0e0e0 !important;
+}
+
+#BgImage{
+    background-image: url("../image/fiani1.png");
+    height:400px !important;
+}
+
+#BgColor{
+    background-color: #1e88e5 !important;
+    height:400px !important;
+}
+
+.StyleRow6{
+    height:400px !important;
+}
+
+#StyleImage{
+    height:100px !important;
+    width:100px !important;
+    position: absolute;
+    z-index: 1;
+    margin:5% 45%;
+    border:2px solid white;
+}
+
+#StyleNama{
+    color:#ffffff !important;
+    margin-top:28% !important;
+    margin-bottom:30% !important;
+}
+
+#StyleKerja{
+    color:#ffffff !important;
+    font-family: 'Pacifico', cursive !important;
+    margin-top:-29% !important;
+}
+
+#StyleSinopsis{
+    color:#ffffff !important;
+    margin-top:3% !important;
+}
+
+#StyleOpsi{
+    background-color:#ffffff !important;
+    height:80px !important;
+}
+
+.FontOpsi{
+    font-weight: bold !important;
+    margin-top:20% !important;
+    font-family: 'Sen', sans-serif !important;
+}
+
+.PadCol{
+    padding-left:10% !important;
+    padding-right:10% !important;
+}
+
+.Horizontal{
+    width: 500px; 
+    height: 0px; 
+    border: 1px grey solid;
+    margin:3% 27.5%;
+}
+
+.GambarProfil{
+    background-color: #ffffff ;
+    color:#bdbdbd;
+    margin-top:-4%;
+}
+
+.RataKiri{
+    text-align: left;
+}
+
+#rectangle1 {
+    width: 200px;
+    height: 45px;
+    background: #424242;
+    position: relative;
+    margin-left:-45%;
+    margin-top:10%;
+    border-radius:10px;
+}
+
+#rectangle2 {
+    width: 200px;
+    height: 45px;
+    background: #424242;
+    position: relative;
+    margin-left:-45%;
+    margin-top:7%;
+    border-radius:10px;
+}
+
+#rectangle3 {
+    width: 200px;
+    height: 45px;
+    background: #424242;
+    position: relative;
+    margin-left:86%;
+    margin-top:7%;
+    border-radius:10px;
+}
+
+.RowPendidikan{
+    height:170px !important;
+}
